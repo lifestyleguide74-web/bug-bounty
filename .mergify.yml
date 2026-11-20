@@ -7,5 +7,5 @@ pull_request_rules:
 
 queue_rules:
   - name: default
-    conditions: []
+    merge_conditions: []
 
